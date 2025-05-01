@@ -1,0 +1,25 @@
+{
+    "predict_filenames": [
+        {
+            "image": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/imagesTs/liver_5.nii.gz",
+            "label": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/labelsTs/liver_5.nii.gz",
+            "semi": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/semiTs/liver_5_star_rain.nii.gz",
+            "name": "liver_5.nii.gz"
+        },
+        {
+            "image": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/imagesTs/liver_7.nii.gz",
+            "label": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/labelsTs/liver_7.nii.gz",
+            "semi": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/semiTs/liver_7_star_rain.nii.gz",
+            "name": "liver_7.nii.gz"
+        }
+    ],
+    "intensity_statistics_per_channel": {
+        "mean": 62.41493606567383,
+        "median": 64.0,
+        "std": 32.1462287902832,
+        "min": -435.0,
+        "max": 392.0,
+        "percentile_99_5": 136.0,
+        "percentile_00_5": -32.0
+    }
+}

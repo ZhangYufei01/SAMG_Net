@@ -1,0 +1,29 @@
+{
+    "train_keys": [
+        "liver_0",
+        "liver_4",
+        "liver_1",
+        "liver_2"
+    ],
+    "train_data_paths": [
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_0.npz",
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_4.npz",
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_1.npz",
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_2.npz"
+    ],
+    "train_pkl_paths": [
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_0.pkl",
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_4.pkl",
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_1.pkl",
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_2.pkl"
+    ],
+    "val_keys": [
+        "liver_3"
+    ],
+    "val_data_paths": [
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_3.npz"
+    ],
+    "val_pkl_paths": [
+        "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/preprocess_data/liver_3.pkl"
+    ]
+}

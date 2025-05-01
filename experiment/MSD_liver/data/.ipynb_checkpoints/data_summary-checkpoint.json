@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "image": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/imagesTr/liver_3.nii.gz",
+            "label": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/labelsTr/liver_3.nii.gz",
+            "semi_auto_infor": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/semiTr/liver_3_star_rain.nii.gz"
+        },
+        {
+            "image": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/imagesTr/liver_0.nii.gz",
+            "label": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/labelsTr/liver_0.nii.gz",
+            "semi_auto_infor": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/semiTr/liver_0_star_rain.nii.gz"
+        },
+        {
+            "image": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/imagesTr/liver_4.nii.gz",
+            "label": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/labelsTr/liver_4.nii.gz",
+            "semi_auto_infor": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/semiTr/liver_4_star_rain.nii.gz"
+        },
+        {
+            "image": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/imagesTr/liver_1.nii.gz",
+            "label": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/labelsTr/liver_1.nii.gz",
+            "semi_auto_infor": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/semiTr/liver_1_star_rain.nii.gz"
+        },
+        {
+            "image": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/imagesTr/liver_2.nii.gz",
+            "label": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/labelsTr/liver_2.nii.gz",
+            "semi_auto_infor": "/dssg/home/acct-clsyzs/clsyzs-zhyf/SAMG/experiment/MSD_liver/data/semiTr/liver_2_star_rain.nii.gz"
+        }
+    ]
+}
